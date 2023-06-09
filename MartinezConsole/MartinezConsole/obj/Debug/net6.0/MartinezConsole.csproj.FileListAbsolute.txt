@@ -1,0 +1,5 @@
+C:\Users\lucas\OneDrive\Documentos\GitHub\GitActivityRepository\MartinezConsole\MartinezConsole\obj\Debug\net6.0\MartinezConsole.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\GitHub\GitActivityRepository\MartinezConsole\MartinezConsole\obj\Debug\net6.0\MartinezConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\GitHub\GitActivityRepository\MartinezConsole\MartinezConsole\obj\Debug\net6.0\MartinezConsole.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\GitHub\GitActivityRepository\MartinezConsole\MartinezConsole\obj\Debug\net6.0\MartinezConsole.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\GitHub\GitActivityRepository\MartinezConsole\MartinezConsole\obj\Debug\net6.0\MartinezConsole.csproj.CoreCompileInputs.cache
